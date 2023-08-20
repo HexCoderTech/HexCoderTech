@@ -1,6 +1,6 @@
 # HexCoderTech
 This is the home page of HexCoderTech!
-This is a change!
+There are changes!
 
 But we don't need changes!
 Let's do some changes!
